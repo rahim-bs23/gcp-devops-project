@@ -1,1 +1,1 @@
-#### This is first repo for GCP DevOps Project. Need to add details task for this project.
+#### This is first repo for GCP DevOps Project.
